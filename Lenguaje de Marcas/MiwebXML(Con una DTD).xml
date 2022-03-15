@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productos [
+<!ELEMENT productos (gafasvr+)>
+<!ATTLIST gafasvr id CDATA #REQUIRED>
+<!ELEMENT gafasvr (compañia, nombre, precio, mandosIncluidos, fechasalida)>
+<!ELEMENT compañia (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT mandosIncluidos (#PCDATA)>
+<!ELEMENT fechasalida (#PCDATA)>
+]>
+<productos>
+<gafasvr id="1">
+<compañia>Oculus VR</compañia>
+<nombre>Oculus Quest 2</nombre>
+<precio>349€</precio>
+<mandosIncluidos>SI</mandosIncluidos>
+<fechasalida>24/08/2021</fechasalida>
+</gafasvr>
+<gafasvr id="2">
+<compañia>Hewlett-Packard</compañia>
+<nombre>Hp Reverb G2</nombre>
+<precio>499€</precio>
+<mandosIncluidos>SI</mandosIncluidos>
+<fechasalida>01/11/2020</fechasalida>
+</gafasvr>
+<gafasvr id="3">
+<compañia>Valve</compañia>
+<nombre>Valve Index</nombre>
+<precio>539€</precio>
+<mandosIncluidos>NO</mandosIncluidos>
+<fechasalida>28/06/2019</fechasalida>
+</gafasvr>
+<gafasvr id="4">
+<compañia>Sony</compañia>
+<nombre>Sony PlayStation VR</nombre>
+<precio>299€</precio>
+<mandosIncluidos>NO</mandosIncluidos>
+<fechasalida>13/10/2016</fechasalida>
+</gafasvr>
+<gafasvr id="5">
+<compañia>HTC Corporation</compañia>
+<nombre>HTC Vive Pro 2</nombre>
+<precio>739€</precio>
+<mandosIncluidos>NO</mandosIncluidos>
+<fechasalida>03/06/2021</fechasalida>
+</gafasvr>
+<gafasvr id="6">
+<compañia>HTC Corporation</compañia>
+<nombre>HTC Vive Cosmos</nombre>
+<precio>578,99</precio>
+<mandosIncluidos>SI</mandosIncluidos>
+<fechasalida>18/04/2020</fechasalida>
+</gafasvr>
+<gafasvr id="7">
+<compañia>Oculus VR</compañia>
+<nombre>Oculus Go</nombre>
+<precio>298,94</precio>
+<mandosIncluidos>SI</mandosIncluidos>
+<fechasalida>01/05/2018</fechasalida>
+</gafasvr>
+<gafasvr id="8">
+<compañia>Pimax</compañia>
+<nombre>Pimax Vision 8K X</nombre>
+<precio>1479€</precio>
+<mandosIncluidos>NO</mandosIncluidos>
+<fechasalida>19/02/2019</fechasalida>
+</gafasvr>
+<gafasvr id="9">
+<compañia>HTC Corporation</compañia>
+<nombre>HTC Vive Focus Plus</nombre>
+<precio>705,28</precio>
+<mandosIncluidos>SI</mandosIncluidos>
+<fechasalida>15/04/2019</fechasalida>
+</gafasvr>
+<gafasvr id="10">
+<compañia>Samsumg</compañia>
+<nombre>Samsumg Gear VR</nombre>
+<precio>145</precio>
+<mandosIncluidos>NO</mandosIncluidos>
+<fechasalida>27/11/2015</fechasalida>
+</gafasvr>
+</productos>
