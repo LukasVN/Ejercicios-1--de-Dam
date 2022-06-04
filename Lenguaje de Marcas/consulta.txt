@@ -1,0 +1,41 @@
+<html>
+<body>
+<h1> Moviles </h1>
+<table border="1">
+<tr>
+<th>marca</th>
+<th>modelo</th>
+<th>dimensiones</th>
+<th>peso</th>
+<th>procesador</th>
+<th>ram</th>
+<th>sistema_op</th>
+<th>almacenamiento</th>
+</tr>
+{
+  for $moviles in doc("moviles.xml")//moviles/movil
+  let $marca:=$moviles/marca
+  let $modelo:=$moviles/modelo
+  let $dimensiones:=$moviles/dimensiones
+  let $peso:=$moviles/peso
+  let $procesador:=$moviles/procesador
+  let $ram:=$moviles/ram
+  let $sistema_op:=$moviles/sistema_op
+  let $almacenamiento:=$moviles/almacenamiento
+
+  return 
+
+    <tr>
+      <td>{data($marca)}</td>
+      <td>{data($modelo)}</td>
+      <td>{data($dimensiones)}</td>
+      <td>{data($peso)}</td>
+      <td>{data($procesador)}</td>
+      <td>{data($ram)}</td>
+      <td>{data($sistema_op)}</td>
+      <td>{data($almacenamiento)}</td>
+    </tr>
+}
+</table>
+</body>
+</html>

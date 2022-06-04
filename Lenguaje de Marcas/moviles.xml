@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moviles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation= "moviles.xsd">
+    <movil >
+        <marca>
+            Lenovo
+        </marca>
+        <modelo>
+            k9
+        </modelo>
+        <dimensiones>
+            153.8 x 72.9 x 8  
+        </dimensiones>
+        <peso>
+            155 g
+        </peso>
+        <procesador>
+            Mediatek MT6762 Helio P22
+        </procesador>
+        <ram>
+            3
+            </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            64
+        </almacenamiento>
+           </movil>
+    <movil >
+        <marca>
+            Lenovo
+        </marca>
+        <modelo>
+            K5 Pro
+        </modelo>
+        <dimensiones>
+            75.0   x 156.0   x 8.0  
+        </dimensiones>
+        <peso>
+            165  
+        </peso>
+                <procesador>
+            Qualcomm Snapdragon 636
+        </procesador>
+        <ram>
+            6
+        </ram>
+           <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            128
+            </almacenamiento>
+            </movil>
+    <movil >
+        <marca>
+            Lenovo
+        </marca>
+        <modelo>
+            S5 Pro
+        </modelo>
+        <dimensiones>
+            154.5 x 75.45  
+        </dimensiones>
+        <peso>
+            170 
+        </peso>
+
+        <procesador>
+            Qualcomm Snapdragon 636
+        </procesador>
+        <ram>
+            4
+        </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            64
+        </almacenamiento>
+            </movil>
+    <movil>
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            Z3 Play
+        </modelo>
+        <dimensiones>
+            156.5 x 76.5 x 6.8  
+        </dimensiones>
+        <peso>
+            156 
+        </peso>
+
+        <procesador>
+            Qualcomm Snapdragon 636
+        </procesador>
+        <ram>
+            6
+        </ram>
+          <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            32
+        </almacenamiento>
+           </movil>
+    <movil >
+        <marca>
+            Lenovo
+        </marca>
+        <modelo>
+            Moto Z3
+        </modelo>
+        <dimensiones>
+            156.5 x 76.5 x 6.8  
+        </dimensiones>
+        <peso>
+            156 
+        </peso>
+
+        <procesador>
+            Qualcomm Snapdragon 635
+        </procesador>
+        <ram>
+            6
+        </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            128
+        </almacenamiento>
+           </movil>
+    <movil>
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            One
+        </modelo>
+        <dimensiones>
+            149.9 x 72.2 x 8  
+        </dimensiones>
+        <peso>
+            162  
+        </peso>
+    
+        <procesador>
+            Qualcomm Snapdragon 625
+        </procesador>
+        <ram>
+            4
+        </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            64
+        </almacenamiento>
+            </movil>
+    <movil>
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            One Power
+        </modelo>
+        <dimensiones>
+            156 x 76 x 8.4  
+        </dimensiones>
+        <peso>
+            205  
+        </peso>
+        
+        <procesador>
+            Qualcomm Snapdragon 636
+        </procesador>
+        <ram>
+            4
+        </ram>
+            <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            64
+        </almacenamiento>
+            </movil>
+    <movil>
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            Z5 Pro
+        </modelo>
+        <dimensiones>
+            155.1 x 73 x 9.3  
+        </dimensiones>
+        <peso>
+            210  
+        </peso>
+     
+        <procesador>
+            Qualcomm Snapdragon 710
+        </procesador>
+        <ram>
+            6
+        </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            128
+        </almacenamiento>
+           </movil>
+    <movil >
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            E5 Play
+        </modelo>
+        <dimensiones>
+            151 x 74 x 9   
+        </dimensiones>
+        <peso>
+            150  
+        </peso>
+
+        <procesador>
+            Qualcomm Snapdragon 425
+        </procesador>
+        <ram>
+            2
+        </ram>
+        <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            16
+        </almacenamiento>
+           </movil>
+    <movil >
+        <marca>
+            Motorola
+        </marca>
+        <modelo>
+            E5 Plus
+        </modelo>
+        <dimensiones>
+            160.9 x 75.3 x 9.4  
+        </dimensiones>
+        <peso>
+            196.6  
+        </peso>
+            <procesador>
+            Qualcomm Snapdragon 425
+        </procesador>
+        <ram>
+            3
+        </ram>
+              <sistema_op>Android</sistema_op>
+        <almacenamiento>
+            32
+        </almacenamiento>
+          </movil>
+</moviles>
